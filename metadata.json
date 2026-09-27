@@ -1,0 +1,12 @@
+{
+  "name": "VimosAI Studio Viewer",
+  "description": "Tampilan full body untuk VimosAI Studio tanpa bilah navigasi atau tautan pencarian.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
